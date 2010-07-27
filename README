@@ -7,3 +7,12 @@ into their code. For instance, the standard 'hello world' example:
 Thou shall say 'hello world'.
 
 Pretty sweet!
+
+Running
+------------------
+
+Navigate into the goscript directory and run:
+
+ruby repl.rb
+
+and then play around. Don't abuse your godly powers yet, though.

@@ -12,7 +12,7 @@ def read(str)
     elsif c == nil || c == "\n"
       #
     else
-      raise "we only do numbers for now, not |#{c}|"
+      raise "HEATHEN! What is this #{c} nonsense?! Ye be banished from these heavens!"
     end
   end
   
